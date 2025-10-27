@@ -10,9 +10,7 @@ This project analyzes the **Brazilian E-Commerce Public Dataset by Olist (Kaggle
 - Create **visual dashboards and an executive report** highlighting business trends
 
 ## 🧩 Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
-- Power BI (data visualization)
-- Excel (initial cleaning)
+- Power BI [Link Google Drive](https://drive.google.com/file/d/1YYzAxTNHgL-191NqA3coOGUYLv9qql08/view?usp=drive_link)  
 
 ## 📁 Dataset
 - Source: [Kaggle – Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets)
