@@ -13,7 +13,7 @@ This project analyzes the **Brazilian E-Commerce Public Dataset by Olist (Kaggle
 - Power BI [Link Google Drive](https://drive.google.com/file/d/1YYzAxTNHgL-191NqA3coOGUYLv9qql08/view?usp=drive_link)  
 
 ## 📁 Dataset
-- Source: [Kaggle – Brazilian E-Commerce Public Dataset by Olist]([https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce])
+- Source: [Kaggle – Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - Contains 100k+ transactions across multiple tables
 
 ## 🚀 Insights
